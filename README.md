@@ -1,10 +1,10 @@
-# Sistema de Inscripción a Cursos (Python CLI) 📚
+Sistema de Inscripción a Cursos 
 
 Este es el **Trabajo Final Integrador** desarrollado para la asignatura. Consiste en una aplicación de consola (CLI) escrita en Python que permite gestionar el registro de estudiantes, la inscripción a talleres o cursos con control estricto de cupos, la asignación automática a listas de espera y la generación de estadísticas del sistema.
 
 ---
 
-## 👥 Integrantes del Equipo
+ Integrantes del Equipo
 *  [Nombre y Apellido] - [@usuario_github]
 *  [Nombre y Apellido] - [@usuario_github]
 *  [Nombre y Apellido] - [@usuario_github]
@@ -14,7 +14,7 @@ Este es el **Trabajo Final Integrador** desarrollado para la asignatura. Consist
 
 ---
 
-## 🚀 Funcionalidades Principales
+ Funcionalidades Principales
 
 * **Registro de Estudiantes:** Alta de alumnos con validación de DNI numérico y control de duplicados en el sistema.
 * **Inscripción Eficiente:** Permite asociar estudiantes a cursos mediante ID únicos.
@@ -24,7 +24,7 @@ Este es el **Trabajo Final Integrador** desarrollado para la asignatura. Consist
 
 ---
 
-## 🛠️ Requisitos Técnicos Implementados
+ Requisitos Técnicos Implementados
 
 El proyecto fue diseñado aplicando las buenas prácticas solicitadas por la cátedra:
 * **Modularización:** Separación de la interfaz de usuario y la lógica de negocio.
@@ -34,7 +34,7 @@ El proyecto fue diseñado aplicando las buenas prácticas solicitadas por la cá
 
 ---
 
-## 📂 Estructura del Proyecto
+ Estructura del Proyecto
 
 ```text
 ├── tp_inscripciones_cursos/   # Carpeta principal del proyecto

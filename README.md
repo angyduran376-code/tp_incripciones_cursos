@@ -5,11 +5,11 @@ Este es el **Trabajo Final Integrador** desarrollado para la asignatura. Consist
 ---
 
  Integrantes del Equipo
-*  [Nombre y Apellido] - [@usuario_github]
-*  [Nombre y Apellido] - [@usuario_github]
-*  [Nombre y Apellido] - [@usuario_github]
-*  [Nombre y Apellido] - [@usuario_github]
-*  [Nombre y Apellido] - [@usuario_github]
+*  [Alan Marcos Emmanuel Aguirre] -[https://github.com/404DaniNotFound/.Prueba.git]
+*  [Daniel Luis GóMEZ] - [https://github.com/404DaniNotFound/.Prueba.git]
+*  [Milagros Belen Gomez] - [https://github.com/belg5/Aporte-trabajo-python.git]
+*  [Angelica lorena duran] - [https://github.com/angyduran376-code/tp_incripciones_cursos.git]
+*  [bruno gomez leiva] - [https://github.com/gomezleiva08brunoo-maker/Bruno.git]
   
 
 ---
